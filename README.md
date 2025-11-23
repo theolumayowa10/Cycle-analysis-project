@@ -65,8 +65,8 @@ The raw dataset used for analysis.
 ---
 
 ## Author
-**Oluyole Oluwamayowa Omotayo (Mayowa)**  
-Health & Data Analyst | Creative Storyteller | Visual Thinker
+**Mayowa Oluyole**  
+Health & Data Analyst
 
 ---
 
